@@ -1,4 +1,18 @@
 ---
 label: peie
 hide_body: true
-fields: []
+fields:
+- name: eaieiaeiae
+  type: text
+  config:
+    required: false
+  label: eaieiaeiae
+- name: eaie
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: eaie
