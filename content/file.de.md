@@ -1,6 +1,6 @@
 +++
 eaie = "eiaeiaeie\n\nee"
-eaieiae = "/uploads/favicon.ico"
+eaieiae = "/uploads/header.jpg"
 eaieiaeiae = "eeiae"
 
 +++
