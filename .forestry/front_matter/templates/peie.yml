@@ -16,6 +16,11 @@ fields:
     schema:
       format: markdown
   label: eaie
+- name: eaieiae
+  type: file
+  config:
+    maxSize: 250
+  label: eaieiae
 pages:
 - content/file.en.md
 - content/file.it.md
