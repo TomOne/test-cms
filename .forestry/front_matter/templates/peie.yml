@@ -17,5 +17,6 @@ fields:
       format: markdown
   label: eaie
 pages:
+- content/file.md
 - content/file.it.md
 - content/file.de.md
